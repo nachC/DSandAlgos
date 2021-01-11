@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSandAlgo.iml" filepath="$PROJECT_DIR$/.idea/DSandAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/DisjointSet/DisjointSet.iml" filepath="$PROJECT_DIR$/DataStructures/DisjointSet/DisjointSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/SLList/SLList.iml" filepath="$PROJECT_DIR$/DataStructures/SLList/SLList.iml" />
+    </modules>
+  </component>
+</project>
